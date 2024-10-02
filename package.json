@@ -9,6 +9,16 @@
   "categories": [
     "Themes"
   ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RasengunShotaro/M-PinkDark"
+	},
+	"keywords": [
+		"theme",
+		"pink",
+		"cute",
+		"dark"
+	],
   "contributes": {
     "themes": [
       {
