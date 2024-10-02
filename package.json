@@ -1,0 +1,21 @@
+{
+  "name": "m-pinkdark",
+  "displayName": "M-PinkDark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "M-PinkDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/M-PinkDark-color-theme.json"
+      }
+    ]
+  }
+}
