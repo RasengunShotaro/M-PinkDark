@@ -3,6 +3,7 @@
   "displayName": "M-PinkDark",
   "description": "A pink sweet theme for VSCode",
 	"icon": "icon.png",
+	"publisher": "RasengunShotaro",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
