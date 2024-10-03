@@ -53,7 +53,7 @@
         "extensionButton.prominentBackground": "#ff5c8d",
         "extensionButton.prominentForeground": "#ffffff",
         "extensionButton.prominentHoverBackground": "#ff5c8d",
-        "focusBorder": "#ffdfa2",
+        "focusBorder": "#ffa2d7",
         "foreground": "#CCCCCC",
         "icon.foreground": "#CCCCCC",
         "input.background": "#353042",

@@ -4,7 +4,7 @@
   "description": "A pink sweet theme for VSCode",
 	"icon": "icon.png",
 	"publisher": "RasengunShotaro",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "*"
   },
